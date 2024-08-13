@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">retrofitWhiteHome</string>
+    <string name="appDescription">Once you open the application and if permission is requested, after giving the necessary permissions, the system will get the necessary data from https://www.whitehouse.gov/briefing-room/ and send it to you as a notification.
+Note: In order to receive notifications without any problems, after activating the "Allow notifications" option in the application settings, you must turn off the battery saving mode and activate the "No Restrictions" option in the application settings.</string>
+</resources>
